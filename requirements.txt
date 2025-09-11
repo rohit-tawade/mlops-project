@@ -1,0 +1,9 @@
+# Requirements for the ML project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+joblib
+boto3     # if you use S3
